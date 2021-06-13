@@ -5,6 +5,8 @@ iOS development references
 
 ## Swift
 
+- Strings
+
 ## Basics
 
 ## Advanced
